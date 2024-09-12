@@ -1,0 +1,27 @@
+<Entity>
+    <Transform>
+        <position x = "400" y = "100"/>
+    </Transform>
+    <Components>
+        <ProjectileComponent>
+        </ProjectileComponent>
+        <TeamComponent>
+            <teamNum teamNum = "0"/>
+        </TeamComponent>
+        <RenderRect>
+            <height height = "5"/>
+            <width width = "5"/>
+            <Color>
+                <g g = "0"/>
+                <b b = "0"/>
+                <r r = "255"/>
+                <a a = "0"/>
+            </Color>
+        </RenderRect>
+        <Collider>
+            <height height = "5"/>
+            <width width = "5"/>
+            <message>TankShell</message>
+        </Collider>
+    </Components>
+</Entity>

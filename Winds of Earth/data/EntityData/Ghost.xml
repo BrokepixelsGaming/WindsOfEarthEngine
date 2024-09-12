@@ -1,0 +1,24 @@
+<Entity>
+    <Transform>
+        <position x = "400" y = "100"/>
+    </Transform>
+    <Components>
+        <EnemyMoveComponent>
+        </EnemyMoveComponent>
+        <RenderRect>
+            <height height = "15"/>
+            <width width = "15"/>
+            <Color>
+                <g g = "255"/>
+                <b b = "0"/>
+                <r r = "255"/>
+                <a a = "0"/>
+            </Color>
+        </RenderRect>
+        <Collider>
+            <height height = "15"/>
+            <width width = "15"/>
+            <message>Ghost</message>
+        </Collider>
+    </Components>
+</Entity>

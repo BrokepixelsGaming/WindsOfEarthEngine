@@ -1,0 +1,99 @@
+<World>
+    <Map>
+        <MapData>data/TileMaps/TiledMap.tmx</MapData>
+    </Map>
+    <Audio>
+        <Music>data/Audio/MP3/021- Earthbound - Sunrise And Onett Theme.mp3</Music>
+    </Audio>
+    <Entities>
+    <!-- The following two Entities are the map-->
+        <Entity>
+            <Transform>
+                <position x = "650" y = "100"/>
+            </Transform>
+            <Components>
+                <ScoreBoard>
+                    <position x = "480" y = "5"/>
+                </ScoreBoard>
+            </Components>
+        </Entity>
+        <Entity>
+            <Transform>
+                <position x = "225" y = "290"/>
+            </Transform>
+            <Components>
+                <Collider>
+                    <height height = "15"/>
+                    <width width = "15"/>
+                    <message>PacMan</message>
+                </Collider>
+                <Image>
+                    <imagepath>data/Textures/PacMan_RightOpenMouth.png</imagepath>
+                    <height height = "15"/>
+                    <width width = "15"/>
+                </Image>
+                <PlayerMoveComponent>
+                </PlayerMoveComponent>
+                <CollectorComponent>
+                </CollectorComponent>
+            </Components>
+        </Entity>
+        <Entity>
+            <Transform>
+                <position x = "250" y = "250"/>
+            </Transform>
+            <Components>
+                <EnemyMoveComponent>
+                </EnemyMoveComponent>
+                <Image>
+                    <imagepath>data/Textures/RedGhost.png</imagepath>
+                    <height height = "15"/>
+                    <width width = "15"/>
+                </Image>
+                <Collider>
+                    <height height = "15"/>
+                    <width width = "15"/>
+                    <message>Ghost</message>
+                </Collider>
+            </Components>
+        </Entity>
+        <Entity>
+            <Transform>
+                <position x = "260" y = "250"/>
+            </Transform>
+            <Components>
+                <EnemyMoveComponent>
+                </EnemyMoveComponent>
+                <Image>
+                    <imagepath>data/Textures/RedGhost.png</imagepath>
+                    <height height = "15"/>
+                    <width width = "15"/>
+                </Image>
+                <Collider>
+                    <height height = "15"/>
+                    <width width = "15"/>
+                    <message>Ghost</message>
+                </Collider>
+            </Components>
+        </Entity>
+        <Entity>
+            <Transform>
+                <position x = "240" y = "250"/>
+            </Transform>
+            <Components>
+                <EnemyMoveComponent>
+                </EnemyMoveComponent>
+                <Image>
+                    <imagepath>data/Textures/RedGhost.png</imagepath>
+                    <height height = "15"/>
+                    <width width = "15"/>
+                </Image>
+                <Collider>
+                    <height height = "15"/>
+                    <width width = "15"/>
+                    <message>Ghost</message>
+                </Collider>
+            </Components>
+        </Entity>
+    </Entities>
+</World>

@@ -1,0 +1,322 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ComponentSystem\Animation.cpp" />
+    <ClCompile Include="ComponentSystem\Audio.cpp" />
+    <ClCompile Include="ComponentSystem\CollectorComponent.cpp" />
+    <ClCompile Include="ComponentSystem\Collision.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">false</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="ComponentSystem\EnemyMoveComponent.cpp" />
+    <ClCompile Include="ComponentSystem\Image.cpp" />
+    <ClCompile Include="ComponentSystem\MoveComponent.cpp" />
+    <ClCompile Include="ComponentSystem\PlayerMoveComponent.cpp" />
+    <ClCompile Include="ComponentSystem\RenderRect.cpp" />
+    <ClCompile Include="ComponentSystem\UITextField.cpp" />
+    <ClCompile Include="EngineInterface\EngineSingleton.cpp" />
+    <ClCompile Include="EntitySystem\Entity.cpp" />
+    <ClCompile Include="EntitySystem\EntityManager.cpp" />
+    <ClCompile Include="EventSystem\Event.cpp" />
+    <ClCompile Include="EventSystem\EventManager.cpp" />
+    <ClCompile Include="InputSystem\CodeLog.cpp" />
+    <ClCompile Include="InputSystem\Keyboard.cpp" />
+    <ClCompile Include="RenderSystem\Camera.cpp" />
+    <ClCompile Include="RenderSystem\GameWindow.cpp" />
+    <ClCompile Include="ResourceSystem\ResourceManager.cpp" />
+    <ClCompile Include="ShardSystem\Shard.cpp" />
+    <ClCompile Include="ShardSystem\ShardManager.cpp" />
+    <ClCompile Include="TileMapSystem\TilePalatte.cpp" />
+    <ClCompile Include="TileMapSystem\Tile.cpp" />
+    <ClCompile Include="TileMapSystem\TileDef.cpp" />
+    <ClCompile Include="TileMapSystem\TileFactory.cpp" />
+    <ClCompile Include="TileMapSystem\TileMap.cpp" />
+    <ClCompile Include="TileMapSystem\TileRenderer.cpp" />
+    <ClCompile Include="tools\BleachNew.cpp" />
+    <ClCompile Include="tools\Utilities\Color.cpp" />
+    <ClCompile Include="tools\Utilities\HighPrecisionCounter.cpp" />
+    <ClCompile Include="tools\Utilities\Random.cpp" />
+    <ClCompile Include="tools\Utilities\Rect.cpp" />
+    <ClCompile Include="tools\Utilities\RoomGraph.cpp" />
+    <ClCompile Include="tools\Utilities\SeededGenerator.cpp" />
+    <ClCompile Include="tools\Utilities\StringId.cpp" />
+    <ClCompile Include="tools\Utilities\tinyxml2.cpp" />
+    <ClCompile Include="tools\Utilities\Vector.cpp" />
+    <ClCompile Include="tools\Utilities\XorShift.cpp" />
+    <ClCompile Include="tools\Utilities\ZipFile.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="WorldSystem\CollisionReferee.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">false</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="WorldSystem\World.cpp" />
+    <ClCompile Include="WorldSystem\WorldManager.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ComponentSystem\Animation.h" />
+    <ClInclude Include="ComponentSystem\Audio.h" />
+    <ClInclude Include="ComponentSystem\CollectorComponent.h" />
+    <ClInclude Include="ComponentSystem\Collision.h">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">false</ExcludedFromBuild>
+    </ClInclude>
+    <ClInclude Include="ComponentSystem\Component.h" />
+    <ClInclude Include="ComponentSystem\EnemyMoveComponent.h" />
+    <ClInclude Include="ComponentSystem\Image.h" />
+    <ClInclude Include="ComponentSystem\MoveComponent.h" />
+    <ClInclude Include="ComponentSystem\PlayerMoveComponent.h" />
+    <ClInclude Include="ComponentSystem\RenderRect.h" />
+    <ClInclude Include="ComponentSystem\UITextField.h" />
+    <ClInclude Include="config\Settings.h" />
+    <ClInclude Include="EngineInterface\EngineSingleton.h" />
+    <ClInclude Include="EngineInterface\Singleton.h" />
+    <ClInclude Include="EngineInterface\Texture.h" />
+    <ClInclude Include="EntitySystem\Entity.h" />
+    <ClInclude Include="EntitySystem\EntityManager.h" />
+    <ClInclude Include="EventSystem\Event.h" />
+    <ClInclude Include="EventSystem\EventManager.h" />
+    <ClInclude Include="InputSystem\CodeLog.h" />
+    <ClInclude Include="InputSystem\Keyboard.h" />
+    <ClInclude Include="RenderSystem\Camera.h" />
+    <ClInclude Include="RenderSystem\GameWindow.h" />
+    <ClInclude Include="ResourceSystem\Resource.h" />
+    <ClInclude Include="ResourceSystem\ResourceFactory.h" />
+    <ClInclude Include="ResourceSystem\ResourceManager.h" />
+    <ClInclude Include="ShardSystem\Shard.h" />
+    <ClInclude Include="ShardSystem\ShardManager.h" />
+    <ClInclude Include="SimpleInstrumentationProfiler.h" />
+    <ClInclude Include="TileMapSystem\PathPlan.h" />
+    <ClInclude Include="TileMapSystem\PathPlanNode.h" />
+    <ClInclude Include="TileMapSystem\Tile.h" />
+    <ClInclude Include="TileMapSystem\TileDef.h" />
+    <ClInclude Include="TileMapSystem\TileFactory.h" />
+    <ClInclude Include="TileMapSystem\TileMap.h" />
+    <ClInclude Include="TileMapSystem\TilePalatte.h" />
+    <ClInclude Include="TileMapSystem\TileRenderer.h" />
+    <ClInclude Include="TileMapSystem\TileTypes.h" />
+    <ClInclude Include="tools\BleachNew.h" />
+    <ClInclude Include="tools\BleachNewConfig.h" />
+    <ClInclude Include="tools\Utilities\Color.h" />
+    <ClInclude Include="tools\Utilities\HighPrecisionCounter.h" />
+    <ClInclude Include="tools\Utilities\Macros.h" />
+    <ClInclude Include="tools\Utilities\Random.h" />
+    <ClInclude Include="tools\Utilities\Rect.h" />
+    <ClInclude Include="tools\Utilities\RoomGraph.h" />
+    <ClInclude Include="tools\Utilities\SeededGenerator.h" />
+    <ClInclude Include="tools\Utilities\StringId.h" />
+    <ClInclude Include="tools\Utilities\tinyxml2.h" />
+    <ClInclude Include="tools\Utilities\Vector.h" />
+    <ClInclude Include="tools\Utilities\WOEMath.h" />
+    <ClInclude Include="tools\Utilities\XorShift.h" />
+    <ClInclude Include="tools\Utilities\ZipFile.h" />
+    <ClInclude Include="WidgetSystem\Widget.h" />
+    <ClInclude Include="WorldSystem\CollisionReferee.h">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">false</ExcludedFromBuild>
+    </ClInclude>
+    <ClInclude Include="WorldSystem\World.h" />
+    <ClInclude Include="WorldSystem\WorldManager.h" />
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>16.0</VCProjectVersion>
+    <Keyword>Win32Proj</Keyword>
+    <ProjectGuid>{314a7c68-9180-4766-b24b-05f242fe053f}</ProjectGuid>
+    <RootNamespace>WOEEngine</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+    <OutDir>$(ProjectDir)..\bin\$(Configuration)\$(PlatformTarget)\</OutDir>
+    <IntDir>$(ProjectDir)..\obj\$(Configuration)\$(PlatformTarget)\</IntDir>
+    <TargetName>$(ProjectName)</TargetName>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+    <OutDir>$(ProjectDir)..\bin\$(Configuration)\$(PlatformTarget)\</OutDir>
+    <IntDir>$(ProjectDir)..\obj\$(Configuration)\$(PlatformTarget)\</IntDir>
+    <TargetName>$(ProjectName)</TargetName>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LinkIncremental>true</LinkIncremental>
+    <OutDir>$(ProjectDir)..\bin\$(Configuration)\$(PlatformTarget)\</OutDir>
+    <IntDir>$(ProjectDir)..\obj\$(Configuration)\$(PlatformTarget)\</IntDir>
+    <TargetName>$(ProjectName)</TargetName>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <LinkIncremental>false</LinkIncremental>
+    <OutDir>$(ProjectDir)..\bin\$(Configuration)\$(PlatformTarget)\</OutDir>
+    <IntDir>$(ProjectDir)..\obj\$(Configuration)\$(PlatformTarget)\</IntDir>
+    <TargetName>$(ProjectName)</TargetName>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level4</WarningLevel>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpp20</LanguageStandard>
+      <AdditionalIncludeDirectories>$(SolutionDir)WOE_Engine\3rdParty\include;$(SolutionDir)WOE_Engine\source</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+    <Lib>
+      <AdditionalLibraryDirectories>%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>%(AdditionalDependencies)</AdditionalDependencies>
+    </Lib>
+    <PostBuildEvent>
+      <Command>xcopy "$(ProjectDir)..\3rdParty\lib\$(PlatformShortName)"  "$(OutDir)" /i/d/y</Command>
+    </PostBuildEvent>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level4</WarningLevel>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpp20</LanguageStandard>
+      <AdditionalIncludeDirectories>$(SolutionDir)WOE_Engine\3rdParty\include;$(SolutionDir)WOE_Engine\source</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+    <Lib>
+      <AdditionalLibraryDirectories>%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>%(AdditionalDependencies)</AdditionalDependencies>
+    </Lib>
+    <PostBuildEvent>
+      <Command>xcopy "$(ProjectDir)..\3rdParty\lib\$(PlatformShortName)"  "$(OutDir)" /i/d/y</Command>
+    </PostBuildEvent>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <WarningLevel>Level4</WarningLevel>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpp20</LanguageStandard>
+      <AdditionalIncludeDirectories>$(SolutionDir)WOE_Engine\3rdParty\include;$(SolutionDir)WOE_Engine\source</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+    <Lib>
+      <AdditionalDependencies>%(AdditionalDependencies)</AdditionalDependencies>
+    </Lib>
+    <Lib>
+      <AdditionalLibraryDirectories>%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+    </Lib>
+    <PostBuildEvent>
+      <Command>xcopy "$(ProjectDir)..\3rdParty\lib\$(PlatformShortName)"  "$(OutDir)" /i/d/y</Command>
+    </PostBuildEvent>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level4</WarningLevel>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpp20</LanguageStandard>
+      <AdditionalIncludeDirectories>$(SolutionDir)WOE_Engine\3rdParty\include;$(SolutionDir)WOE_Engine\source</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+    <Lib>
+      <AdditionalDependencies>%(AdditionalDependencies)</AdditionalDependencies>
+    </Lib>
+    <Lib>
+      <AdditionalLibraryDirectories>%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+    </Lib>
+    <PostBuildEvent>
+      <Command>xcopy "$(ProjectDir)..\3rdParty\lib\$(PlatformShortName)"  "$(OutDir)" /i/d/y</Command>
+    </PostBuildEvent>
+  </ItemDefinitionGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

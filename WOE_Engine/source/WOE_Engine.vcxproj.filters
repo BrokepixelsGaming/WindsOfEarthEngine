@@ -1,0 +1,355 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="source">
+      <UniqueIdentifier>{0973c610-4106-4c66-8dc1-54c796942c41}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source\ComponentSystem">
+      <UniqueIdentifier>{61b54aa9-c59c-42ed-857e-9478d6983e9d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source\config">
+      <UniqueIdentifier>{bd0d9cec-5a0c-40a1-a60b-78c0f48f6219}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source\EngineInterface">
+      <UniqueIdentifier>{b1649adb-34f5-4fab-b3da-130c235056a8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source\EntitySystem">
+      <UniqueIdentifier>{287a9d83-42d5-4802-9e11-f0580d49c1e4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source\EventSystem">
+      <UniqueIdentifier>{f8d73ec8-63a0-4435-bb3a-a5026295bc78}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source\RenderSystem">
+      <UniqueIdentifier>{0aa246c4-dc0e-4699-9646-584c6533fe02}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source\ResourceSystem">
+      <UniqueIdentifier>{bbd3b4d9-b499-4dda-8f80-5d644f09769d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source\ShardSystem">
+      <UniqueIdentifier>{9f0c3753-8871-4a99-91e4-6bb9022920d7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source\tools">
+      <UniqueIdentifier>{18b33f12-f107-496a-bc5a-ae7dd5f6bfca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source\WorldSystem">
+      <UniqueIdentifier>{8240b0d5-2981-4462-bed3-b54d28d3af07}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source\tools\Utilities">
+      <UniqueIdentifier>{b3bbaa74-6309-4033-9ac9-40717a16bb3a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source\TileMapSystem">
+      <UniqueIdentifier>{63f2f558-80fb-48f1-8dda-d79e345ce61c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source\EngineInterface\LuaSystem">
+      <UniqueIdentifier>{dd9030ca-eceb-424f-836c-ce67bed12f68}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source\InputSystem">
+      <UniqueIdentifier>{94d52d32-be14-4518-a7da-0525cfb8e73e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source\WidgetSystem">
+      <UniqueIdentifier>{54ffc414-d3f4-4c9a-9d9a-17d8dfef1d9b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ComponentSystem\Animation.cpp">
+      <Filter>source\ComponentSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="ComponentSystem\Audio.cpp">
+      <Filter>source\ComponentSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="ComponentSystem\Collision.cpp">
+      <Filter>source\ComponentSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="EngineInterface\EngineSingleton.cpp">
+      <Filter>source\EngineInterface</Filter>
+    </ClCompile>
+    <ClCompile Include="EntitySystem\Entity.cpp">
+      <Filter>source\EntitySystem</Filter>
+    </ClCompile>
+    <ClCompile Include="EntitySystem\EntityManager.cpp">
+      <Filter>source\EntitySystem</Filter>
+    </ClCompile>
+    <ClCompile Include="EventSystem\Event.cpp">
+      <Filter>source\EventSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="EventSystem\EventManager.cpp">
+      <Filter>source\EventSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="WorldSystem\World.cpp">
+      <Filter>source\WorldSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="WorldSystem\WorldManager.cpp">
+      <Filter>source\WorldSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="tools\BleachNew.cpp">
+      <Filter>source\tools</Filter>
+    </ClCompile>
+    <ClCompile Include="tools\Utilities\SeededGenerator.cpp">
+      <Filter>source\tools\Utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="ShardSystem\ShardManager.cpp">
+      <Filter>source\ShardSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="ResourceSystem\ResourceManager.cpp">
+      <Filter>source\ResourceSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="RenderSystem\GameWindow.cpp">
+      <Filter>source\RenderSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="ShardSystem\Shard.cpp">
+      <Filter>source\ShardSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="tools\Utilities\Vector.cpp">
+      <Filter>source\tools\Utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="TileMapSystem\Tile.cpp">
+      <Filter>source\TileMapSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="TileMapSystem\TileFactory.cpp">
+      <Filter>source\TileMapSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="TileMapSystem\TileRenderer.cpp">
+      <Filter>source\TileMapSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="TileMapSystem\TileMap.cpp">
+      <Filter>source\TileMapSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="tools\Utilities\Random.cpp">
+      <Filter>source\tools\Utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="ComponentSystem\RenderRect.cpp">
+      <Filter>source\ComponentSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="tools\Utilities\Color.cpp">
+      <Filter>source\tools\Utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="tools\Utilities\Rect.cpp">
+      <Filter>source\tools\Utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="ComponentSystem\MoveComponent.cpp">
+      <Filter>source\ComponentSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="tools\Utilities\StringId.cpp">
+      <Filter>source\tools\Utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="tools\Utilities\ZipFile.cpp">
+      <Filter>source\tools\Utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="tools\Utilities\tinyxml2.cpp">
+      <Filter>source\tools\Utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="WorldSystem\CollisionReferee.cpp">
+      <Filter>source\WorldSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="InputSystem\Keyboard.cpp">
+      <Filter>source\InputSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="InputSystem\CodeLog.cpp">
+      <Filter>source\InputSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="ComponentSystem\PlayerMoveComponent.cpp">
+      <Filter>source\ComponentSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="ComponentSystem\EnemyMoveComponent.cpp">
+      <Filter>source\ComponentSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="ComponentSystem\CollectorComponent.cpp">
+      <Filter>source\ComponentSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="TileMapSystem\TileDef.cpp">
+      <Filter>source\TileMapSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="TileMapSystem\TilePalatte.cpp">
+      <Filter>source\TileMapSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="ComponentSystem\Image.cpp">
+      <Filter>source\ComponentSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="RenderSystem\Camera.cpp">
+      <Filter>source\RenderSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="ComponentSystem\UITextField.cpp">
+      <Filter>source\ComponentSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="tools\Utilities\XorShift.cpp">
+      <Filter>source\tools\Utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="tools\Utilities\RoomGraph.cpp">
+      <Filter>source\tools\Utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="tools\Utilities\HighPrecisionCounter.cpp">
+      <Filter>source\tools\Utilities</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ComponentSystem\Animation.h">
+      <Filter>source\ComponentSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="ComponentSystem\Audio.h">
+      <Filter>source\ComponentSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="ComponentSystem\Collision.h">
+      <Filter>source\ComponentSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="ComponentSystem\Component.h">
+      <Filter>source\ComponentSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="config\Settings.h">
+      <Filter>source\config</Filter>
+    </ClInclude>
+    <ClInclude Include="EngineInterface\EngineSingleton.h">
+      <Filter>source\EngineInterface</Filter>
+    </ClInclude>
+    <ClInclude Include="EngineInterface\Texture.h">
+      <Filter>source\EngineInterface</Filter>
+    </ClInclude>
+    <ClInclude Include="EntitySystem\Entity.h">
+      <Filter>source\EntitySystem</Filter>
+    </ClInclude>
+    <ClInclude Include="EntitySystem\EntityManager.h">
+      <Filter>source\EntitySystem</Filter>
+    </ClInclude>
+    <ClInclude Include="EventSystem\Event.h">
+      <Filter>source\EventSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="EventSystem\EventManager.h">
+      <Filter>source\EventSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="WorldSystem\World.h">
+      <Filter>source\WorldSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="WorldSystem\WorldManager.h">
+      <Filter>source\WorldSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="tools\BleachNew.h">
+      <Filter>source\tools</Filter>
+    </ClInclude>
+    <ClInclude Include="tools\BleachNewConfig.h">
+      <Filter>source\tools</Filter>
+    </ClInclude>
+    <ClInclude Include="tools\Utilities\SeededGenerator.h">
+      <Filter>source\tools\Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="ShardSystem\ShardManager.h">
+      <Filter>source\ShardSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="ResourceSystem\ResourceManager.h">
+      <Filter>source\ResourceSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="RenderSystem\GameWindow.h">
+      <Filter>source\RenderSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="ShardSystem\Shard.h">
+      <Filter>source\ShardSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="tools\Utilities\Vector.h">
+      <Filter>source\tools\Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="tools\Utilities\Macros.h">
+      <Filter>source\tools\Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="TileMapSystem\Tile.h">
+      <Filter>source\TileMapSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="TileMapSystem\TileFactory.h">
+      <Filter>source\TileMapSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="TileMapSystem\TileRenderer.h">
+      <Filter>source\TileMapSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="TileMapSystem\TileTypes.h">
+      <Filter>source\TileMapSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="TileMapSystem\TileMap.h">
+      <Filter>source\TileMapSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="TileMapSystem\PathPlan.h">
+      <Filter>source\TileMapSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="TileMapSystem\PathPlanNode.h">
+      <Filter>source\TileMapSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="tools\Utilities\Random.h">
+      <Filter>source\tools\Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="ComponentSystem\RenderRect.h">
+      <Filter>source\ComponentSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="tools\Utilities\Color.h">
+      <Filter>source\tools\Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="tools\Utilities\Rect.h">
+      <Filter>source\tools\Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="EngineInterface\Singleton.h">
+      <Filter>source\EngineInterface</Filter>
+    </ClInclude>
+    <ClInclude Include="ComponentSystem\MoveComponent.h">
+      <Filter>source\ComponentSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="tools\Utilities\StringId.h">
+      <Filter>source\tools\Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="ResourceSystem\Resource.h">
+      <Filter>source\ResourceSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="tools\Utilities\ZipFile.h">
+      <Filter>source\tools\Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="tools\Utilities\tinyxml2.h">
+      <Filter>source\tools\Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="WorldSystem\CollisionReferee.h">
+      <Filter>source\WorldSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="ResourceSystem\ResourceFactory.h" />
+    <ClInclude Include="InputSystem\Keyboard.h">
+      <Filter>source\InputSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="InputSystem\CodeLog.h">
+      <Filter>source\InputSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="ComponentSystem\PlayerMoveComponent.h">
+      <Filter>source\ComponentSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="ComponentSystem\EnemyMoveComponent.h">
+      <Filter>source\ComponentSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="ComponentSystem\CollectorComponent.h">
+      <Filter>source\ComponentSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="TileMapSystem\TileDef.h">
+      <Filter>source\TileMapSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="TileMapSystem\TilePalatte.h">
+      <Filter>source\TileMapSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="WidgetSystem\Widget.h">
+      <Filter>source\WidgetSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="ComponentSystem\Image.h">
+      <Filter>source\ComponentSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="RenderSystem\Camera.h">
+      <Filter>source\RenderSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="ComponentSystem\UITextField.h">
+      <Filter>source\ComponentSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="tools\Utilities\XorShift.h">
+      <Filter>source\tools\Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="tools\Utilities\RoomGraph.h">
+      <Filter>source\tools\Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="tools\Utilities\HighPrecisionCounter.h">
+      <Filter>source\tools\Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="SimpleInstrumentationProfiler.h">
+      <Filter>source\tools\Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="tools\Utilities\WOEMath.h">
+      <Filter>source\tools\Utilities</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

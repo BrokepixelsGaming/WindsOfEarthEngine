@@ -1,0 +1,1062 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\WOE\\Active\\WOE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{314A7C68-9180-4766-B24B-05F242FE053F}|WOE_Engine\\source\\WOE_Engine.vcxproj|F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\tools\\Utilities\\WOEMath.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{314A7C68-9180-4766-B24B-05F242FE053F}|WOE_Engine\\source\\WOE_Engine.vcxproj|solutionrelative:WOE_Engine\\source\\tools\\Utilities\\WOEMath.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314A7C68-9180-4766-B24B-05F242FE053F}|WOE_Engine\\source\\WOE_Engine.vcxproj|F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\tools\\Utilities\\Vector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{314A7C68-9180-4766-B24B-05F242FE053F}|WOE_Engine\\source\\WOE_Engine.vcxproj|solutionrelative:WOE_Engine\\source\\tools\\Utilities\\Vector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314A7C68-9180-4766-B24B-05F242FE053F}|WOE_Engine\\source\\WOE_Engine.vcxproj|F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\EngineInterface\\EngineSingleton.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{314A7C68-9180-4766-B24B-05F242FE053F}|WOE_Engine\\source\\WOE_Engine.vcxproj|solutionrelative:WOE_Engine\\source\\EngineInterface\\EngineSingleton.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314A7C68-9180-4766-B24B-05F242FE053F}|WOE_Engine\\source\\WOE_Engine.vcxproj|F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\RenderSystem\\GameWindow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{314A7C68-9180-4766-B24B-05F242FE053F}|WOE_Engine\\source\\WOE_Engine.vcxproj|solutionrelative:WOE_Engine\\source\\RenderSystem\\GameWindow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314A7C68-9180-4766-B24B-05F242FE053F}|WOE_Engine\\source\\WOE_Engine.vcxproj|F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\tools\\Utilities\\RoomGraph.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{314A7C68-9180-4766-B24B-05F242FE053F}|WOE_Engine\\source\\WOE_Engine.vcxproj|solutionrelative:WOE_Engine\\source\\tools\\Utilities\\RoomGraph.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314A7C68-9180-4766-B24B-05F242FE053F}|WOE_Engine\\source\\WOE_Engine.vcxproj|F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\tools\\Utilities\\RoomGraph.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{314A7C68-9180-4766-B24B-05F242FE053F}|WOE_Engine\\source\\WOE_Engine.vcxproj|solutionrelative:WOE_Engine\\source\\tools\\Utilities\\RoomGraph.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A32CF9-AC76-448F-B979-B071867BFE8B}|Winds of Earth\\Winds of Earth.vcxproj|F:\\WOE\\Active\\WOE\\Winds of Earth\\source\\Components\\WorldGenerationManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B6A32CF9-AC76-448F-B979-B071867BFE8B}|Winds of Earth\\Winds of Earth.vcxproj|solutionrelative:Winds of Earth\\source\\Components\\WorldGenerationManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A32CF9-AC76-448F-B979-B071867BFE8B}|Winds of Earth\\Winds of Earth.vcxproj|F:\\WOE\\Active\\WOE\\Winds of Earth\\source\\Components\\WorldGenerationManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B6A32CF9-AC76-448F-B979-B071867BFE8B}|Winds of Earth\\Winds of Earth.vcxproj|solutionrelative:Winds of Earth\\source\\Components\\WorldGenerationManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314A7C68-9180-4766-B24B-05F242FE053F}|WOE_Engine\\source\\WOE_Engine.vcxproj|F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\TileMapSystem\\TileMap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{314A7C68-9180-4766-B24B-05F242FE053F}|WOE_Engine\\source\\WOE_Engine.vcxproj|solutionrelative:WOE_Engine\\source\\TileMapSystem\\TileMap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314A7C68-9180-4766-B24B-05F242FE053F}|WOE_Engine\\source\\WOE_Engine.vcxproj|F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\TileMapSystem\\TileDef.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{314A7C68-9180-4766-B24B-05F242FE053F}|WOE_Engine\\source\\WOE_Engine.vcxproj|solutionrelative:WOE_Engine\\source\\TileMapSystem\\TileDef.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314A7C68-9180-4766-B24B-05F242FE053F}|WOE_Engine\\source\\WOE_Engine.vcxproj|F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\EventSystem\\EventManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{314A7C68-9180-4766-B24B-05F242FE053F}|WOE_Engine\\source\\WOE_Engine.vcxproj|solutionrelative:WOE_Engine\\source\\EventSystem\\EventManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314A7C68-9180-4766-B24B-05F242FE053F}|WOE_Engine\\source\\WOE_Engine.vcxproj|F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\tools\\Utilities\\Macros.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{314A7C68-9180-4766-B24B-05F242FE053F}|WOE_Engine\\source\\WOE_Engine.vcxproj|solutionrelative:WOE_Engine\\source\\tools\\Utilities\\Macros.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314A7C68-9180-4766-B24B-05F242FE053F}|WOE_Engine\\source\\WOE_Engine.vcxproj|F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\config\\Settings.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{314A7C68-9180-4766-B24B-05F242FE053F}|WOE_Engine\\source\\WOE_Engine.vcxproj|solutionrelative:WOE_Engine\\source\\config\\Settings.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A32CF9-AC76-448F-B979-B071867BFE8B}|Winds of Earth\\Winds of Earth.vcxproj|F:\\WOE\\Active\\WOE\\Winds of Earth\\source\\Components\\ClickMovement.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B6A32CF9-AC76-448F-B979-B071867BFE8B}|Winds of Earth\\Winds of Earth.vcxproj|solutionrelative:Winds of Earth\\source\\Components\\ClickMovement.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314A7C68-9180-4766-B24B-05F242FE053F}|WOE_Engine\\source\\WOE_Engine.vcxproj|F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\InputSystem\\Keyboard.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{314A7C68-9180-4766-B24B-05F242FE053F}|WOE_Engine\\source\\WOE_Engine.vcxproj|solutionrelative:WOE_Engine\\source\\InputSystem\\Keyboard.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314A7C68-9180-4766-B24B-05F242FE053F}|WOE_Engine\\source\\WOE_Engine.vcxproj|F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\ComponentSystem\\EnemyMoveComponent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{314A7C68-9180-4766-B24B-05F242FE053F}|WOE_Engine\\source\\WOE_Engine.vcxproj|solutionrelative:WOE_Engine\\source\\ComponentSystem\\EnemyMoveComponent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314A7C68-9180-4766-B24B-05F242FE053F}|WOE_Engine\\source\\WOE_Engine.vcxproj|F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\TileMapSystem\\TilePalatte.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{314A7C68-9180-4766-B24B-05F242FE053F}|WOE_Engine\\source\\WOE_Engine.vcxproj|solutionrelative:WOE_Engine\\source\\TileMapSystem\\TilePalatte.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314A7C68-9180-4766-B24B-05F242FE053F}|WOE_Engine\\source\\WOE_Engine.vcxproj|F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\WorldSystem\\World.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{314A7C68-9180-4766-B24B-05F242FE053F}|WOE_Engine\\source\\WOE_Engine.vcxproj|solutionrelative:WOE_Engine\\source\\WorldSystem\\World.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A32CF9-AC76-448F-B979-B071867BFE8B}|Winds of Earth\\Winds of Earth.vcxproj|F:\\WOE\\Active\\WOE\\Winds of Earth\\source\\Components\\DiggerComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B6A32CF9-AC76-448F-B979-B071867BFE8B}|Winds of Earth\\Winds of Earth.vcxproj|solutionrelative:Winds of Earth\\source\\Components\\DiggerComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A32CF9-AC76-448F-B979-B071867BFE8B}|Winds of Earth\\Winds of Earth.vcxproj|F:\\WOE\\Active\\WOE\\Winds of Earth\\source\\Components\\DiggerComponent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B6A32CF9-AC76-448F-B979-B071867BFE8B}|Winds of Earth\\Winds of Earth.vcxproj|solutionrelative:Winds of Earth\\source\\Components\\DiggerComponent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A32CF9-AC76-448F-B979-B071867BFE8B}|Winds of Earth\\Winds of Earth.vcxproj|F:\\WOE\\Active\\WOE\\Winds of Earth\\source\\Components\\CellularAutomaton.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B6A32CF9-AC76-448F-B979-B071867BFE8B}|Winds of Earth\\Winds of Earth.vcxproj|solutionrelative:Winds of Earth\\source\\Components\\CellularAutomaton.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314A7C68-9180-4766-B24B-05F242FE053F}|WOE_Engine\\source\\WOE_Engine.vcxproj|F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\TileMapSystem\\Tile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{314A7C68-9180-4766-B24B-05F242FE053F}|WOE_Engine\\source\\WOE_Engine.vcxproj|solutionrelative:WOE_Engine\\source\\TileMapSystem\\Tile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314A7C68-9180-4766-B24B-05F242FE053F}|WOE_Engine\\source\\WOE_Engine.vcxproj|F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\EngineInterface\\EngineSingleton.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{314A7C68-9180-4766-B24B-05F242FE053F}|WOE_Engine\\source\\WOE_Engine.vcxproj|solutionrelative:WOE_Engine\\source\\EngineInterface\\EngineSingleton.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314A7C68-9180-4766-B24B-05F242FE053F}|WOE_Engine\\source\\WOE_Engine.vcxproj|F:\\WOE\\Active\\WOE\\WOE_ENGINE\\SOURCE\\TILEMAPSYSTEM\\TILETYPES.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{314A7C68-9180-4766-B24B-05F242FE053F}|WOE_Engine\\source\\WOE_Engine.vcxproj|solutionrelative:WOE_ENGINE\\SOURCE\\TILEMAPSYSTEM\\TILETYPES.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314A7C68-9180-4766-B24B-05F242FE053F}|WOE_Engine\\source\\WOE_Engine.vcxproj|F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\TileMapSystem\\TileMap.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{314A7C68-9180-4766-B24B-05F242FE053F}|WOE_Engine\\source\\WOE_Engine.vcxproj|solutionrelative:WOE_Engine\\source\\TileMapSystem\\TileMap.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314A7C68-9180-4766-B24B-05F242FE053F}|WOE_Engine\\source\\WOE_Engine.vcxproj|F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\TileMapSystem\\Tile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{314A7C68-9180-4766-B24B-05F242FE053F}|WOE_Engine\\source\\WOE_Engine.vcxproj|solutionrelative:WOE_Engine\\source\\TileMapSystem\\Tile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314A7C68-9180-4766-B24B-05F242FE053F}|WOE_Engine\\source\\WOE_Engine.vcxproj|F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\ComponentSystem\\PlayerMoveComponent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{314A7C68-9180-4766-B24B-05F242FE053F}|WOE_Engine\\source\\WOE_Engine.vcxproj|solutionrelative:WOE_Engine\\source\\ComponentSystem\\PlayerMoveComponent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314A7C68-9180-4766-B24B-05F242FE053F}|WOE_Engine\\source\\WOE_Engine.vcxproj|F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\tools\\Utilities\\StringId.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{314A7C68-9180-4766-B24B-05F242FE053F}|WOE_Engine\\source\\WOE_Engine.vcxproj|solutionrelative:WOE_Engine\\source\\tools\\Utilities\\StringId.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314A7C68-9180-4766-B24B-05F242FE053F}|WOE_Engine\\source\\WOE_Engine.vcxproj|F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\TileMapSystem\\TileDef.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{314A7C68-9180-4766-B24B-05F242FE053F}|WOE_Engine\\source\\WOE_Engine.vcxproj|solutionrelative:WOE_Engine\\source\\TileMapSystem\\TileDef.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314A7C68-9180-4766-B24B-05F242FE053F}|WOE_Engine\\source\\WOE_Engine.vcxproj|F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\TileMapSystem\\TilePalatte.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{314A7C68-9180-4766-B24B-05F242FE053F}|WOE_Engine\\source\\WOE_Engine.vcxproj|solutionrelative:WOE_Engine\\source\\TileMapSystem\\TilePalatte.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A32CF9-AC76-448F-B979-B071867BFE8B}|Winds of Earth\\Winds of Earth.vcxproj|F:\\WOE\\Active\\WOE\\Winds of Earth\\source\\Components\\GameComponentFactory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B6A32CF9-AC76-448F-B979-B071867BFE8B}|Winds of Earth\\Winds of Earth.vcxproj|solutionrelative:Winds of Earth\\source\\Components\\GameComponentFactory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314A7C68-9180-4766-B24B-05F242FE053F}|WOE_Engine\\source\\WOE_Engine.vcxproj|F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\ComponentSystem\\Animation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{314A7C68-9180-4766-B24B-05F242FE053F}|WOE_Engine\\source\\WOE_Engine.vcxproj|solutionrelative:WOE_Engine\\source\\ComponentSystem\\Animation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\include\\vector||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314A7C68-9180-4766-B24B-05F242FE053F}|WOE_Engine\\source\\WOE_Engine.vcxproj|F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\ResourceSystem\\ResourceManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{314A7C68-9180-4766-B24B-05F242FE053F}|WOE_Engine\\source\\WOE_Engine.vcxproj|solutionrelative:WOE_Engine\\source\\ResourceSystem\\ResourceManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A32CF9-AC76-448F-B979-B071867BFE8B}|Winds of Earth\\Winds of Earth.vcxproj|F:\\WOE\\Active\\WOE\\Winds of Earth\\source\\Components\\MapGeneratorComponent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B6A32CF9-AC76-448F-B979-B071867BFE8B}|Winds of Earth\\Winds of Earth.vcxproj|solutionrelative:Winds of Earth\\source\\Components\\MapGeneratorComponent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A32CF9-AC76-448F-B979-B071867BFE8B}|Winds of Earth\\Winds of Earth.vcxproj|F:\\WOE\\Active\\WOE\\Winds of Earth\\source\\Components\\CellularAutomaton.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B6A32CF9-AC76-448F-B979-B071867BFE8B}|Winds of Earth\\Winds of Earth.vcxproj|solutionrelative:Winds of Earth\\source\\Components\\CellularAutomaton.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314A7C68-9180-4766-B24B-05F242FE053F}|WOE_Engine\\source\\WOE_Engine.vcxproj|F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\tools\\Utilities\\Color.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{314A7C68-9180-4766-B24B-05F242FE053F}|WOE_Engine\\source\\WOE_Engine.vcxproj|solutionrelative:WOE_Engine\\source\\tools\\Utilities\\Color.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A32CF9-AC76-448F-B979-B071867BFE8B}|Winds of Earth\\Winds of Earth.vcxproj|F:\\WOE\\Active\\WOE\\Winds of Earth\\source\\Components\\ProjectileComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B6A32CF9-AC76-448F-B979-B071867BFE8B}|Winds of Earth\\Winds of Earth.vcxproj|solutionrelative:Winds of Earth\\source\\Components\\ProjectileComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A32CF9-AC76-448F-B979-B071867BFE8B}|Winds of Earth\\Winds of Earth.vcxproj|F:\\WOE\\Active\\WOE\\Winds of Earth\\source\\Components\\SelectorComponent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B6A32CF9-AC76-448F-B979-B071867BFE8B}|Winds of Earth\\Winds of Earth.vcxproj|solutionrelative:Winds of Earth\\source\\Components\\SelectorComponent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314A7C68-9180-4766-B24B-05F242FE053F}|WOE_Engine\\source\\WOE_Engine.vcxproj|F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\tools\\Utilities\\XorShift.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{314A7C68-9180-4766-B24B-05F242FE053F}|WOE_Engine\\source\\WOE_Engine.vcxproj|solutionrelative:WOE_Engine\\source\\tools\\Utilities\\XorShift.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A32CF9-AC76-448F-B979-B071867BFE8B}|Winds of Earth\\Winds of Earth.vcxproj|F:\\WOE\\Active\\WOE\\Winds of Earth\\source\\Components\\MapGeneratorComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B6A32CF9-AC76-448F-B979-B071867BFE8B}|Winds of Earth\\Winds of Earth.vcxproj|solutionrelative:Winds of Earth\\source\\Components\\MapGeneratorComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314A7C68-9180-4766-B24B-05F242FE053F}|WOE_Engine\\source\\WOE_Engine.vcxproj|F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\tools\\Utilities\\XorShift.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{314A7C68-9180-4766-B24B-05F242FE053F}|WOE_Engine\\source\\WOE_Engine.vcxproj|solutionrelative:WOE_Engine\\source\\tools\\Utilities\\XorShift.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314A7C68-9180-4766-B24B-05F242FE053F}|WOE_Engine\\source\\WOE_Engine.vcxproj|F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\ComponentSystem\\Image.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{314A7C68-9180-4766-B24B-05F242FE053F}|WOE_Engine\\source\\WOE_Engine.vcxproj|solutionrelative:WOE_Engine\\source\\ComponentSystem\\Image.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314A7C68-9180-4766-B24B-05F242FE053F}|WOE_Engine\\source\\WOE_Engine.vcxproj|F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\ComponentSystem\\Component.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{314A7C68-9180-4766-B24B-05F242FE053F}|WOE_Engine\\source\\WOE_Engine.vcxproj|solutionrelative:WOE_Engine\\source\\ComponentSystem\\Component.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314A7C68-9180-4766-B24B-05F242FE053F}|WOE_Engine\\source\\WOE_Engine.vcxproj|F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\RenderSystem\\Camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{314A7C68-9180-4766-B24B-05F242FE053F}|WOE_Engine\\source\\WOE_Engine.vcxproj|solutionrelative:WOE_Engine\\source\\RenderSystem\\Camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314A7C68-9180-4766-B24B-05F242FE053F}|WOE_Engine\\source\\WOE_Engine.vcxproj|F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\RenderSystem\\Camera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{314A7C68-9180-4766-B24B-05F242FE053F}|WOE_Engine\\source\\WOE_Engine.vcxproj|solutionrelative:WOE_Engine\\source\\RenderSystem\\Camera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A32CF9-AC76-448F-B979-B071867BFE8B}|Winds of Earth\\Winds of Earth.vcxproj|F:\\WOE\\Active\\WOE\\Winds of Earth\\source\\Components\\LSystemComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B6A32CF9-AC76-448F-B979-B071867BFE8B}|Winds of Earth\\Winds of Earth.vcxproj|solutionrelative:Winds of Earth\\source\\Components\\LSystemComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A32CF9-AC76-448F-B979-B071867BFE8B}|Winds of Earth\\Winds of Earth.vcxproj|F:\\WOE\\Active\\WOE\\Winds of Earth\\source\\Components\\LSystemComponent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B6A32CF9-AC76-448F-B979-B071867BFE8B}|Winds of Earth\\Winds of Earth.vcxproj|solutionrelative:Winds of Earth\\source\\Components\\LSystemComponent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314A7C68-9180-4766-B24B-05F242FE053F}|WOE_Engine\\source\\WOE_Engine.vcxproj|F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\EntitySystem\\Entity.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{314A7C68-9180-4766-B24B-05F242FE053F}|WOE_Engine\\source\\WOE_Engine.vcxproj|solutionrelative:WOE_Engine\\source\\EntitySystem\\Entity.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314A7C68-9180-4766-B24B-05F242FE053F}|WOE_Engine\\source\\WOE_Engine.vcxproj|F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\tools\\Utilities\\SeededGenerator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{314A7C68-9180-4766-B24B-05F242FE053F}|WOE_Engine\\source\\WOE_Engine.vcxproj|solutionrelative:WOE_Engine\\source\\tools\\Utilities\\SeededGenerator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314A7C68-9180-4766-B24B-05F242FE053F}|WOE_Engine\\source\\WOE_Engine.vcxproj|F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\tools\\Utilities\\SeededGenerator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{314A7C68-9180-4766-B24B-05F242FE053F}|WOE_Engine\\source\\WOE_Engine.vcxproj|solutionrelative:WOE_Engine\\source\\tools\\Utilities\\SeededGenerator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314A7C68-9180-4766-B24B-05F242FE053F}|WOE_Engine\\source\\WOE_Engine.vcxproj|F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\ComponentSystem\\CollectorComponent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{314A7C68-9180-4766-B24B-05F242FE053F}|WOE_Engine\\source\\WOE_Engine.vcxproj|solutionrelative:WOE_Engine\\source\\ComponentSystem\\CollectorComponent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314A7C68-9180-4766-B24B-05F242FE053F}|WOE_Engine\\source\\WOE_Engine.vcxproj|F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\EntitySystem\\Entity.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{314A7C68-9180-4766-B24B-05F242FE053F}|WOE_Engine\\source\\WOE_Engine.vcxproj|solutionrelative:WOE_Engine\\source\\EntitySystem\\Entity.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314A7C68-9180-4766-B24B-05F242FE053F}|WOE_Engine\\source\\WOE_Engine.vcxproj|F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\tools\\Utilities\\Vector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{314A7C68-9180-4766-B24B-05F242FE053F}|WOE_Engine\\source\\WOE_Engine.vcxproj|solutionrelative:WOE_Engine\\source\\tools\\Utilities\\Vector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\include\\cmath||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\include\\xmemory||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\include\\utility||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\include\\iterator||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\include\\xstring||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\include\\map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\include\\optional||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\include\\xstddef||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314A7C68-9180-4766-B24B-05F242FE053F}|WOE_Engine\\source\\WOE_Engine.vcxproj|F:\\WOE\\Active\\WOE\\WOE_ENGINE\\SOURCE\\SIMPLEINSTRUMENTATIONPROFILER.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{314A7C68-9180-4766-B24B-05F242FE053F}|WOE_Engine\\source\\WOE_Engine.vcxproj|solutionrelative:WOE_ENGINE\\SOURCE\\SIMPLEINSTRUMENTATIONPROFILER.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314A7C68-9180-4766-B24B-05F242FE053F}|WOE_Engine\\source\\WOE_Engine.vcxproj|F:\\WOE\\Active\\WOE\\WOE_ENGINE\\SOURCE\\TOOLS\\UTILITIES\\HIGHPRECISIONCOUNTER.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{314A7C68-9180-4766-B24B-05F242FE053F}|WOE_Engine\\source\\WOE_Engine.vcxproj|solutionrelative:WOE_ENGINE\\SOURCE\\TOOLS\\UTILITIES\\HIGHPRECISIONCOUNTER.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\include\\xtree||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314A7C68-9180-4766-B24B-05F242FE053F}|WOE_Engine\\source\\WOE_Engine.vcxproj|F:\\WOE\\Active\\WOE\\WOE_ENGINE\\SOURCE\\WORLDSYSTEM\\WORLD.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{314A7C68-9180-4766-B24B-05F242FE053F}|WOE_Engine\\source\\WOE_Engine.vcxproj|solutionrelative:WOE_ENGINE\\SOURCE\\WORLDSYSTEM\\WORLD.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 167,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 206,
+          "SelectedChildIndex": 27,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WorldGenerationManager.h",
+              "DocumentMoniker": "F:\\WOE\\Active\\WOE\\Winds of Earth\\source\\Components\\WorldGenerationManager.h",
+              "RelativeDocumentMoniker": "Winds of Earth\\source\\Components\\WorldGenerationManager.h",
+              "ToolTip": "F:\\WOE\\Active\\WOE\\Winds of Earth\\source\\Components\\WorldGenerationManager.h",
+              "RelativeToolTip": "Winds of Earth\\source\\Components\\WorldGenerationManager.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-05T16:07:23.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WorldGenerationManager.cpp",
+              "DocumentMoniker": "F:\\WOE\\Active\\WOE\\Winds of Earth\\source\\Components\\WorldGenerationManager.cpp",
+              "RelativeDocumentMoniker": "Winds of Earth\\source\\Components\\WorldGenerationManager.cpp",
+              "ToolTip": "F:\\WOE\\Active\\WOE\\Winds of Earth\\source\\Components\\WorldGenerationManager.cpp",
+              "RelativeToolTip": "Winds of Earth\\source\\Components\\WorldGenerationManager.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAQwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-05T16:07:23.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TilePalatte.cpp",
+              "DocumentMoniker": "F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\TileMapSystem\\TilePalatte.cpp",
+              "RelativeDocumentMoniker": "WOE_Engine\\source\\TileMapSystem\\TilePalatte.cpp",
+              "ToolTip": "F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\TileMapSystem\\TilePalatte.cpp",
+              "RelativeToolTip": "WOE_Engine\\source\\TileMapSystem\\TilePalatte.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAwHUBAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-05T16:07:23.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ClickMovement.cpp",
+              "DocumentMoniker": "F:\\WOE\\Active\\WOE\\Winds of Earth\\source\\Components\\ClickMovement.cpp",
+              "RelativeDocumentMoniker": "Winds of Earth\\source\\Components\\ClickMovement.cpp",
+              "ToolTip": "F:\\WOE\\Active\\WOE\\Winds of Earth\\source\\Components\\ClickMovement.cpp",
+              "RelativeToolTip": "Winds of Earth\\source\\Components\\ClickMovement.cpp",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADEAAADWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-05T16:07:23.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DiggerComponent.h",
+              "DocumentMoniker": "F:\\WOE\\Active\\WOE\\Winds of Earth\\source\\Components\\DiggerComponent.h",
+              "RelativeDocumentMoniker": "Winds of Earth\\source\\Components\\DiggerComponent.h",
+              "ToolTip": "F:\\WOE\\Active\\WOE\\Winds of Earth\\source\\Components\\DiggerComponent.h",
+              "RelativeToolTip": "Winds of Earth\\source\\Components\\DiggerComponent.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-05T16:07:23.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DiggerComponent.cpp",
+              "DocumentMoniker": "F:\\WOE\\Active\\WOE\\Winds of Earth\\source\\Components\\DiggerComponent.cpp",
+              "RelativeDocumentMoniker": "Winds of Earth\\source\\Components\\DiggerComponent.cpp",
+              "ToolTip": "F:\\WOE\\Active\\WOE\\Winds of Earth\\source\\Components\\DiggerComponent.cpp",
+              "RelativeToolTip": "Winds of Earth\\source\\Components\\DiggerComponent.cpp",
+              "ViewState": "AQIAAFACAAAAAAAAAAAAAGkCAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-05T16:07:23.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EngineSingleton.cpp",
+              "DocumentMoniker": "F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\EngineInterface\\EngineSingleton.cpp",
+              "RelativeDocumentMoniker": "WOE_Engine\\source\\EngineInterface\\EngineSingleton.cpp",
+              "ToolTip": "F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\EngineInterface\\EngineSingleton.cpp",
+              "RelativeToolTip": "WOE_Engine\\source\\EngineInterface\\EngineSingleton.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-05T16:07:23.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "xtree",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\include\\xtree",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\include\\xtree",
+              "ViewState": "AQIAAKkAAAAAAAAAAAASwLYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-02-12T21:32:57.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TileTypes.h",
+              "DocumentMoniker": "F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\TileMapSystem\\TileTypes.h",
+              "RelativeDocumentMoniker": "WOE_Engine\\source\\TileMapSystem\\TileTypes.h",
+              "ToolTip": "F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\TileMapSystem\\TileTypes.h",
+              "RelativeToolTip": "WOE_Engine\\source\\TileMapSystem\\TileTypes.h",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwFEAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-05T16:07:23.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ResourceManager.cpp",
+              "DocumentMoniker": "F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\ResourceSystem\\ResourceManager.cpp",
+              "RelativeDocumentMoniker": "WOE_Engine\\source\\ResourceSystem\\ResourceManager.cpp",
+              "ToolTip": "F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\ResourceSystem\\ResourceManager.cpp",
+              "RelativeToolTip": "WOE_Engine\\source\\ResourceSystem\\ResourceManager.cpp",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAQwIUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-05T16:07:23.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "TilePalatte.h",
+              "DocumentMoniker": "F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\TileMapSystem\\TilePalatte.h",
+              "RelativeDocumentMoniker": "WOE_Engine\\source\\TileMapSystem\\TilePalatte.h",
+              "ToolTip": "F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\TileMapSystem\\TilePalatte.h",
+              "RelativeToolTip": "WOE_Engine\\source\\TileMapSystem\\TilePalatte.h",
+              "ViewState": "AQIAAAEAAAAAAAAAAAASwB0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-05T16:07:23.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "map",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\include\\map",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\include\\map",
+              "ViewState": "AQIAADcAAAAAAAAAAAD4v0gAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2023-12-19T01:47:38.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "optional",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\include\\optional",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\include\\optional",
+              "ViewState": "AQIAAFEDAAAAAAAAAAD4v1oDAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2023-12-19T01:47:38.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "StringId.h",
+              "DocumentMoniker": "F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\tools\\Utilities\\StringId.h",
+              "RelativeDocumentMoniker": "WOE_Engine\\source\\tools\\Utilities\\StringId.h",
+              "ToolTip": "F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\tools\\Utilities\\StringId.h",
+              "RelativeToolTip": "WOE_Engine\\source\\tools\\Utilities\\StringId.h",
+              "ViewState": "AQIAABsAAAAAAAAAAAASwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-05T16:07:23.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ProjectileComponent.h",
+              "DocumentMoniker": "F:\\WOE\\Active\\WOE\\Winds of Earth\\source\\Components\\ProjectileComponent.h",
+              "RelativeDocumentMoniker": "Winds of Earth\\source\\Components\\ProjectileComponent.h",
+              "ToolTip": "F:\\WOE\\Active\\WOE\\Winds of Earth\\source\\Components\\ProjectileComponent.h",
+              "RelativeToolTip": "Winds of Earth\\source\\Components\\ProjectileComponent.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-05T16:07:23.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "xstddef",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\include\\xstddef",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\include\\xstddef",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAlwI0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2023-12-19T01:47:38.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "SelectorComponent.cpp",
+              "DocumentMoniker": "F:\\WOE\\Active\\WOE\\Winds of Earth\\source\\Components\\SelectorComponent.cpp",
+              "RelativeDocumentMoniker": "Winds of Earth\\source\\Components\\SelectorComponent.cpp",
+              "ToolTip": "F:\\WOE\\Active\\WOE\\Winds of Earth\\source\\Components\\SelectorComponent.cpp",
+              "RelativeToolTip": "Winds of Earth\\source\\Components\\SelectorComponent.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-05T16:07:23.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Color.h",
+              "DocumentMoniker": "F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\tools\\Utilities\\Color.h",
+              "RelativeDocumentMoniker": "WOE_Engine\\source\\tools\\Utilities\\Color.h",
+              "ToolTip": "F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\tools\\Utilities\\Color.h",
+              "RelativeToolTip": "WOE_Engine\\source\\tools\\Utilities\\Color.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAiwB4AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-05T16:07:23.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Image.cpp",
+              "DocumentMoniker": "F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\ComponentSystem\\Image.cpp",
+              "RelativeDocumentMoniker": "WOE_Engine\\source\\ComponentSystem\\Image.cpp",
+              "ToolTip": "F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\ComponentSystem\\Image.cpp",
+              "RelativeToolTip": "WOE_Engine\\source\\ComponentSystem\\Image.cpp",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADUAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-05T16:07:23.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EngineSingleton.h",
+              "DocumentMoniker": "F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\EngineInterface\\EngineSingleton.h",
+              "RelativeDocumentMoniker": "WOE_Engine\\source\\EngineInterface\\EngineSingleton.h",
+              "ToolTip": "F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\EngineInterface\\EngineSingleton.h",
+              "RelativeToolTip": "WOE_Engine\\source\\EngineInterface\\EngineSingleton.h",
+              "ViewState": "AQIAACEAAAAAAAAAAAASwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-05T16:07:23.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameWindow.cpp",
+              "DocumentMoniker": "F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\RenderSystem\\GameWindow.cpp",
+              "RelativeDocumentMoniker": "WOE_Engine\\source\\RenderSystem\\GameWindow.cpp",
+              "ToolTip": "F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\RenderSystem\\GameWindow.cpp",
+              "RelativeToolTip": "WOE_Engine\\source\\RenderSystem\\GameWindow.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-05T16:07:23.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Macros.h",
+              "DocumentMoniker": "F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\tools\\Utilities\\Macros.h",
+              "RelativeDocumentMoniker": "WOE_Engine\\source\\tools\\Utilities\\Macros.h",
+              "ToolTip": "F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\tools\\Utilities\\Macros.h",
+              "RelativeToolTip": "WOE_Engine\\source\\tools\\Utilities\\Macros.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-05T16:07:23.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Camera.cpp",
+              "DocumentMoniker": "F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\RenderSystem\\Camera.cpp",
+              "RelativeDocumentMoniker": "WOE_Engine\\source\\RenderSystem\\Camera.cpp",
+              "ToolTip": "F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\RenderSystem\\Camera.cpp",
+              "RelativeToolTip": "WOE_Engine\\source\\RenderSystem\\Camera.cpp",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAAAJoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-05T16:07:23.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Camera.h",
+              "DocumentMoniker": "F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\RenderSystem\\Camera.h",
+              "RelativeDocumentMoniker": "WOE_Engine\\source\\RenderSystem\\Camera.h",
+              "ToolTip": "F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\RenderSystem\\Camera.h",
+              "RelativeToolTip": "WOE_Engine\\source\\RenderSystem\\Camera.h",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAC0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-05T16:07:23.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Keyboard.h",
+              "DocumentMoniker": "F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\InputSystem\\Keyboard.h",
+              "RelativeDocumentMoniker": "WOE_Engine\\source\\InputSystem\\Keyboard.h",
+              "ToolTip": "F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\InputSystem\\Keyboard.h",
+              "RelativeToolTip": "WOE_Engine\\source\\InputSystem\\Keyboard.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-05T16:07:23.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "LSystemComponent.cpp",
+              "DocumentMoniker": "F:\\WOE\\Active\\WOE\\Winds of Earth\\source\\Components\\LSystemComponent.cpp",
+              "RelativeDocumentMoniker": "Winds of Earth\\source\\Components\\LSystemComponent.cpp",
+              "ToolTip": "F:\\WOE\\Active\\WOE\\Winds of Earth\\source\\Components\\LSystemComponent.cpp",
+              "RelativeToolTip": "Winds of Earth\\source\\Components\\LSystemComponent.cpp",
+              "ViewState": "AQIAAEEBAAAAAAAAAIBJwFQBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-05T16:07:23.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "LSystemComponent.h",
+              "DocumentMoniker": "F:\\WOE\\Active\\WOE\\Winds of Earth\\source\\Components\\LSystemComponent.h",
+              "RelativeDocumentMoniker": "Winds of Earth\\source\\Components\\LSystemComponent.h",
+              "ToolTip": "F:\\WOE\\Active\\WOE\\Winds of Earth\\source\\Components\\LSystemComponent.h",
+              "RelativeToolTip": "Winds of Earth\\source\\Components\\LSystemComponent.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-05T16:07:23.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WOEMath.h",
+              "DocumentMoniker": "F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\tools\\Utilities\\WOEMath.h",
+              "RelativeDocumentMoniker": "WOE_Engine\\source\\tools\\Utilities\\WOEMath.h",
+              "ToolTip": "F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\tools\\Utilities\\WOEMath.h",
+              "RelativeToolTip": "WOE_Engine\\source\\tools\\Utilities\\WOEMath.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-05T16:07:23.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "iterator",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\include\\iterator",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\include\\iterator",
+              "ViewState": "AQIAANYBAAAAAAAAAAAhwOgBAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2023-10-19T03:48:55.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "xstring",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\include\\xstring",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\include\\xstring",
+              "ViewState": "AQIAAIIBAAAAAAAAAAAQwI8BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2023-10-19T03:48:55.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Tile.cpp",
+              "DocumentMoniker": "F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\TileMapSystem\\Tile.cpp",
+              "RelativeDocumentMoniker": "WOE_Engine\\source\\TileMapSystem\\Tile.cpp",
+              "ToolTip": "F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\TileMapSystem\\Tile.cpp",
+              "RelativeToolTip": "WOE_Engine\\source\\TileMapSystem\\Tile.cpp",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAlwF4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-05T16:07:23.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TileDef.cpp",
+              "DocumentMoniker": "F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\TileMapSystem\\TileDef.cpp",
+              "RelativeDocumentMoniker": "WOE_Engine\\source\\TileMapSystem\\TileDef.cpp",
+              "ToolTip": "F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\TileMapSystem\\TileDef.cpp",
+              "RelativeToolTip": "WOE_Engine\\source\\TileMapSystem\\TileDef.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-05T16:07:23.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TileDef.h",
+              "DocumentMoniker": "F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\TileMapSystem\\TileDef.h",
+              "RelativeDocumentMoniker": "WOE_Engine\\source\\TileMapSystem\\TileDef.h",
+              "ToolTip": "F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\TileMapSystem\\TileDef.h",
+              "RelativeToolTip": "WOE_Engine\\source\\TileMapSystem\\TileDef.h",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAwBsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-05T16:07:23.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "stdio.h",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
+              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
+              "ViewState": "AQIAAH0IAAAAAAAAAAAQwIoIAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-10-18T01:09:41.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "xmemory",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\include\\xmemory",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\include\\xmemory",
+              "ViewState": "AQIAADYFAAAAAAAAAAAQwEMFAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2023-10-18T01:09:41.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "utility",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\include\\utility",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\include\\utility",
+              "ViewState": "AQIAAOYCAAAAAAAAAAAQwPMCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2023-10-18T01:09:41.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CellularAutomaton.cpp",
+              "DocumentMoniker": "F:\\WOE\\Active\\WOE\\Winds of Earth\\source\\Components\\CellularAutomaton.cpp",
+              "RelativeDocumentMoniker": "Winds of Earth\\source\\Components\\CellularAutomaton.cpp",
+              "ToolTip": "F:\\WOE\\Active\\WOE\\Winds of Earth\\source\\Components\\CellularAutomaton.cpp",
+              "RelativeToolTip": "Winds of Earth\\source\\Components\\CellularAutomaton.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-05T16:07:23.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EventManager.cpp",
+              "DocumentMoniker": "F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\EventSystem\\EventManager.cpp",
+              "RelativeDocumentMoniker": "WOE_Engine\\source\\EventSystem\\EventManager.cpp",
+              "ToolTip": "F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\EventSystem\\EventManager.cpp",
+              "RelativeToolTip": "WOE_Engine\\source\\EventSystem\\EventManager.cpp",
+              "ViewState": "AQIAAKsAAAAAAAAAAAAAAL4AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-05T16:07:23.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CellularAutomaton.h",
+              "DocumentMoniker": "F:\\WOE\\Active\\WOE\\Winds of Earth\\source\\Components\\CellularAutomaton.h",
+              "RelativeDocumentMoniker": "Winds of Earth\\source\\Components\\CellularAutomaton.h",
+              "ToolTip": "F:\\WOE\\Active\\WOE\\Winds of Earth\\source\\Components\\CellularAutomaton.h",
+              "RelativeToolTip": "Winds of Earth\\source\\Components\\CellularAutomaton.h",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-05T16:07:23.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "SimpleInstrumentationProfiler.h",
+              "DocumentMoniker": "F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\SimpleInstrumentationProfiler.h",
+              "RelativeDocumentMoniker": "WOE_Engine\\source\\SimpleInstrumentationProfiler.h",
+              "ToolTip": "F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\SimpleInstrumentationProfiler.h",
+              "RelativeToolTip": "WOE_Engine\\source\\SimpleInstrumentationProfiler.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-05T16:07:23.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "HighPrecisionCounter.h",
+              "DocumentMoniker": "F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\tools\\Utilities\\HighPrecisionCounter.h",
+              "RelativeDocumentMoniker": "WOE_Engine\\source\\tools\\Utilities\\HighPrecisionCounter.h",
+              "ToolTip": "F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\tools\\Utilities\\HighPrecisionCounter.h",
+              "RelativeToolTip": "WOE_Engine\\source\\tools\\Utilities\\HighPrecisionCounter.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-05T16:07:23.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Entity.cpp",
+              "DocumentMoniker": "F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\EntitySystem\\Entity.cpp",
+              "RelativeDocumentMoniker": "WOE_Engine\\source\\EntitySystem\\Entity.cpp",
+              "ToolTip": "F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\EntitySystem\\Entity.cpp",
+              "RelativeToolTip": "WOE_Engine\\source\\EntitySystem\\Entity.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-05T16:07:23.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "vector",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\include\\vector",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\include\\vector",
+              "ViewState": "AQIAAE8IAAAAAAAAAAASwFwIAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2023-10-11T23:22:27.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "cmath",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\include\\cmath",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\include\\cmath",
+              "ViewState": "AQIAAO4AAAAAAAAAAAAkwAABAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2023-10-11T23:22:27.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "XorShift.cpp",
+              "DocumentMoniker": "F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\tools\\Utilities\\XorShift.cpp",
+              "RelativeDocumentMoniker": "WOE_Engine\\source\\tools\\Utilities\\XorShift.cpp",
+              "ToolTip": "F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\tools\\Utilities\\XorShift.cpp",
+              "RelativeToolTip": "WOE_Engine\\source\\tools\\Utilities\\XorShift.cpp",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAAAJAAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-05T16:07:23.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "XorShift.h",
+              "DocumentMoniker": "F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\tools\\Utilities\\XorShift.h",
+              "RelativeDocumentMoniker": "WOE_Engine\\source\\tools\\Utilities\\XorShift.h",
+              "ToolTip": "F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\tools\\Utilities\\XorShift.h",
+              "RelativeToolTip": "WOE_Engine\\source\\tools\\Utilities\\XorShift.h",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAiwDMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-05T16:07:23.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "MapGeneratorComponent.cpp",
+              "DocumentMoniker": "F:\\WOE\\Active\\WOE\\Winds of Earth\\source\\Components\\MapGeneratorComponent.cpp",
+              "RelativeDocumentMoniker": "Winds of Earth\\source\\Components\\MapGeneratorComponent.cpp",
+              "ToolTip": "F:\\WOE\\Active\\WOE\\Winds of Earth\\source\\Components\\MapGeneratorComponent.cpp",
+              "RelativeToolTip": "Winds of Earth\\source\\Components\\MapGeneratorComponent.cpp",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAAwDgAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-05T16:07:23.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "MapGeneratorComponent.h",
+              "DocumentMoniker": "F:\\WOE\\Active\\WOE\\Winds of Earth\\source\\Components\\MapGeneratorComponent.h",
+              "RelativeDocumentMoniker": "Winds of Earth\\source\\Components\\MapGeneratorComponent.h",
+              "ToolTip": "F:\\WOE\\Active\\WOE\\Winds of Earth\\source\\Components\\MapGeneratorComponent.h",
+              "RelativeToolTip": "Winds of Earth\\source\\Components\\MapGeneratorComponent.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-05T16:07:23.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "SeededGenerator.cpp",
+              "DocumentMoniker": "F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\tools\\Utilities\\SeededGenerator.cpp",
+              "RelativeDocumentMoniker": "WOE_Engine\\source\\tools\\Utilities\\SeededGenerator.cpp",
+              "ToolTip": "F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\tools\\Utilities\\SeededGenerator.cpp",
+              "RelativeToolTip": "WOE_Engine\\source\\tools\\Utilities\\SeededGenerator.cpp",
+              "ViewState": "AQIAABsAAAAAAAAAAIBJwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-05T16:07:23.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "SeededGenerator.h",
+              "DocumentMoniker": "F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\tools\\Utilities\\SeededGenerator.h",
+              "RelativeDocumentMoniker": "WOE_Engine\\source\\tools\\Utilities\\SeededGenerator.h",
+              "ToolTip": "F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\tools\\Utilities\\SeededGenerator.h",
+              "RelativeToolTip": "WOE_Engine\\source\\tools\\Utilities\\SeededGenerator.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-05T16:07:23.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PlayerMoveComponent.cpp",
+              "DocumentMoniker": "F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\ComponentSystem\\PlayerMoveComponent.cpp",
+              "RelativeDocumentMoniker": "WOE_Engine\\source\\ComponentSystem\\PlayerMoveComponent.cpp",
+              "ToolTip": "F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\ComponentSystem\\PlayerMoveComponent.cpp",
+              "RelativeToolTip": "WOE_Engine\\source\\ComponentSystem\\PlayerMoveComponent.cpp",
+              "ViewState": "AQIAACABAAAAAAAAAAAAADQBAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-05T16:07:23.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Tile.h",
+              "DocumentMoniker": "F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\TileMapSystem\\Tile.h",
+              "RelativeDocumentMoniker": "WOE_Engine\\source\\TileMapSystem\\Tile.h",
+              "ToolTip": "F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\TileMapSystem\\Tile.h",
+              "RelativeToolTip": "WOE_Engine\\source\\TileMapSystem\\Tile.h",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAwDQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-05T16:07:23.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EnemyMoveComponent.cpp",
+              "DocumentMoniker": "F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\ComponentSystem\\EnemyMoveComponent.cpp",
+              "RelativeDocumentMoniker": "WOE_Engine\\source\\ComponentSystem\\EnemyMoveComponent.cpp",
+              "ToolTip": "F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\ComponentSystem\\EnemyMoveComponent.cpp",
+              "RelativeToolTip": "WOE_Engine\\source\\ComponentSystem\\EnemyMoveComponent.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-05T16:07:23.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TileMap.h",
+              "DocumentMoniker": "F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\TileMapSystem\\TileMap.h",
+              "RelativeDocumentMoniker": "WOE_Engine\\source\\TileMapSystem\\TileMap.h",
+              "ToolTip": "F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\TileMapSystem\\TileMap.h",
+              "RelativeToolTip": "WOE_Engine\\source\\TileMapSystem\\TileMap.h",
+              "ViewState": "AQIAADcAAAAAAAAAAAAAwEgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-05T16:07:23.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Animation.cpp",
+              "DocumentMoniker": "F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\ComponentSystem\\Animation.cpp",
+              "RelativeDocumentMoniker": "WOE_Engine\\source\\ComponentSystem\\Animation.cpp",
+              "ToolTip": "F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\ComponentSystem\\Animation.cpp",
+              "RelativeToolTip": "WOE_Engine\\source\\ComponentSystem\\Animation.cpp",
+              "ViewState": "AQIAAJMAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-05T16:07:23.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "World.h",
+              "DocumentMoniker": "F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\WorldSystem\\World.h",
+              "RelativeDocumentMoniker": "WOE_Engine\\source\\WorldSystem\\World.h",
+              "ToolTip": "F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\WorldSystem\\World.h",
+              "RelativeToolTip": "WOE_Engine\\source\\WorldSystem\\World.h",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAlwDkAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-05T16:07:23.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Vector.cpp",
+              "DocumentMoniker": "F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\tools\\Utilities\\Vector.cpp",
+              "RelativeDocumentMoniker": "WOE_Engine\\source\\tools\\Utilities\\Vector.cpp",
+              "ToolTip": "F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\tools\\Utilities\\Vector.cpp",
+              "RelativeToolTip": "WOE_Engine\\source\\tools\\Utilities\\Vector.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-05T16:07:23.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RoomGraph.cpp",
+              "DocumentMoniker": "F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\tools\\Utilities\\RoomGraph.cpp",
+              "RelativeDocumentMoniker": "WOE_Engine\\source\\tools\\Utilities\\RoomGraph.cpp",
+              "ToolTip": "F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\tools\\Utilities\\RoomGraph.cpp",
+              "RelativeToolTip": "WOE_Engine\\source\\tools\\Utilities\\RoomGraph.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-05T16:07:23.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Entity.h",
+              "DocumentMoniker": "F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\EntitySystem\\Entity.h",
+              "RelativeDocumentMoniker": "WOE_Engine\\source\\EntitySystem\\Entity.h",
+              "ToolTip": "F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\EntitySystem\\Entity.h",
+              "RelativeToolTip": "WOE_Engine\\source\\EntitySystem\\Entity.h",
+              "ViewState": "AQIAABIAAAAAAAAAAIBJwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-05T16:07:24.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vector.h",
+              "DocumentMoniker": "F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\tools\\Utilities\\Vector.h",
+              "RelativeDocumentMoniker": "WOE_Engine\\source\\tools\\Utilities\\Vector.h",
+              "ToolTip": "F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\tools\\Utilities\\Vector.h",
+              "RelativeToolTip": "WOE_Engine\\source\\tools\\Utilities\\Vector.h",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAqwIIAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-05T16:07:24.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RoomGraph.h",
+              "DocumentMoniker": "F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\tools\\Utilities\\RoomGraph.h",
+              "RelativeDocumentMoniker": "WOE_Engine\\source\\tools\\Utilities\\RoomGraph.h",
+              "ToolTip": "F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\tools\\Utilities\\RoomGraph.h",
+              "RelativeToolTip": "WOE_Engine\\source\\tools\\Utilities\\RoomGraph.h",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAnwBYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-05T16:07:24.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Settings.h",
+              "DocumentMoniker": "F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\config\\Settings.h",
+              "RelativeDocumentMoniker": "WOE_Engine\\source\\config\\Settings.h",
+              "ToolTip": "F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\config\\Settings.h",
+              "RelativeToolTip": "WOE_Engine\\source\\config\\Settings.h",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-05T16:07:24.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TileMap.cpp",
+              "DocumentMoniker": "F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\TileMapSystem\\TileMap.cpp",
+              "RelativeDocumentMoniker": "WOE_Engine\\source\\TileMapSystem\\TileMap.cpp",
+              "ToolTip": "F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\TileMapSystem\\TileMap.cpp",
+              "RelativeToolTip": "WOE_Engine\\source\\TileMapSystem\\TileMap.cpp",
+              "ViewState": "AQIAACYCAAAAAAAAAAAiwDECAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-05T16:07:24.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "World.cpp",
+              "DocumentMoniker": "F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\WorldSystem\\World.cpp",
+              "RelativeDocumentMoniker": "WOE_Engine\\source\\WorldSystem\\World.cpp",
+              "ToolTip": "F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\WorldSystem\\World.cpp",
+              "RelativeToolTip": "WOE_Engine\\source\\WorldSystem\\World.cpp",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAwEMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-05T16:07:24.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Component.h",
+              "DocumentMoniker": "F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\ComponentSystem\\Component.h",
+              "RelativeDocumentMoniker": "WOE_Engine\\source\\ComponentSystem\\Component.h",
+              "ToolTip": "F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\ComponentSystem\\Component.h",
+              "RelativeToolTip": "WOE_Engine\\source\\ComponentSystem\\Component.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-05T16:07:24.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "GameComponentFactory.cpp",
+              "DocumentMoniker": "F:\\WOE\\Active\\WOE\\Winds of Earth\\source\\Components\\GameComponentFactory.cpp",
+              "RelativeDocumentMoniker": "Winds of Earth\\source\\Components\\GameComponentFactory.cpp",
+              "ToolTip": "F:\\WOE\\Active\\WOE\\Winds of Earth\\source\\Components\\GameComponentFactory.cpp",
+              "RelativeToolTip": "Winds of Earth\\source\\Components\\GameComponentFactory.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-05T16:07:24.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "CollectorComponent.cpp",
+              "DocumentMoniker": "F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\ComponentSystem\\CollectorComponent.cpp",
+              "RelativeDocumentMoniker": "WOE_Engine\\source\\ComponentSystem\\CollectorComponent.cpp",
+              "ToolTip": "F:\\WOE\\Active\\WOE\\WOE_Engine\\source\\ComponentSystem\\CollectorComponent.cpp",
+              "RelativeToolTip": "WOE_Engine\\source\\ComponentSystem\\CollectorComponent.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-05T16:07:24.035Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

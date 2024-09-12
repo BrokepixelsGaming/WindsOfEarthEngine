@@ -1,0 +1,37 @@
+<World>
+    <Map>
+        <MapData>data/TileMaps/CellularMap.tmx</MapData>
+    </Map>
+    <Audio>
+        <Music>data/Audio/MP3/021- Earthbound - Sunrise And Onett Theme.mp3</Music>
+    </Audio>
+    <Entities>
+    <!-- The following two Entities are the map-->
+        <Entity>
+            <Transform>
+                <position x = "650" y = "100"/>
+            </Transform>
+            <Components>
+            </Components>
+        </Entity>
+        <Entity>
+            <Transform>
+                <position x = "240" y = "240"/>
+            </Transform>
+            <Components>
+                <CellularAutomaton>
+                </CellularAutomaton>
+                <RenderRect>
+                    <height height = "5"/>
+                    <width width = "5"/>
+                    <Color>
+                        <g g = "0"/>
+                        <b b = "255"/>
+                        <r r = "0"/>
+                        <a a = "0"/>
+                    </Color>
+                </RenderRect>
+            </Components>
+        </Entity>
+    </Entities>
+</World>

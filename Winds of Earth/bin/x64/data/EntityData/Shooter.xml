@@ -1,0 +1,36 @@
+<Entity>
+    <Transform>
+        <position x = "400" y = "100"/>
+    </Transform>
+    <Components>
+        <RenderRect>
+            <height height = "5"/>
+            <width width = "5"/>
+            <Color>
+                <g g = "255"/>
+                <b b = "0"/>
+                <r r = "0"/>
+                <a a = "0"/>
+            </Color>
+        </RenderRect>
+        <Collider>
+            <height height = "5"/>
+            <width width = "5"/>
+            <message>Shooter</message>
+        </Collider>
+        <StatComponent>
+	        <currentHealth currentHealth = "15" />
+	        <maxHealth maxHealth = "15" />
+	    </StatComponent>
+        <StatBar>
+            <backHeight backHeight = "32"/>
+            <backWidth backWidth = "40"/>
+            <yOffset1 yOffset1 = "-10"/>
+            <backImagepath>data/SimpleTextures/HealthBarEmpty.png</backImagepath>
+            <frontHeight frontHeight = "32"/>
+            <frontWidth frontWidth = "40"/>
+            <yOffset2 yOffset2 = "-10"/>
+            <frontImagepath>data/SimpleTextures/HealthBarHealth.png</frontImagepath>
+        </StatBar>
+    </Components>
+</Entity>

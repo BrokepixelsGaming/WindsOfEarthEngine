@@ -1,0 +1,489 @@
+<World>
+    <Map>
+        <MapData>data/TileMaps/TiledMap.tmx</MapData>
+    </Map>
+    <Audio>
+        <Music>data/Audio/MP3/021- Earthbound - Sunrise And Onett Theme.mp3</Music>
+    </Audio>
+    <Entities>
+    <!-- The following two Entities are the map-->
+        <Entity>
+            <Transform>
+                <position x = "684" y = "384"/>
+            </Transform>
+            <Components>
+                <Image>
+                    <imagepath>data/Textures/WarZone/WarZone.png</imagepath>
+                    <height height = "768"/>
+                    <width width = "1368"/>
+                </Image>
+            </Components>
+        </Entity>
+        <Entity>
+            <Transform>
+                <position x = "2052" y = "384"/>
+            </Transform>
+            <Components>
+                <Image>
+                    <imagepath>data/Textures/WarZone/WarZone.png</imagepath>
+                    <height height = "768"/>
+                    <width width = "1368"/>
+                </Image>
+            </Components>
+        </Entity>
+        <!-- Hero Chopper -->
+     	<Entity>
+            <Transform>
+                <position x = "100" y = "200"/>
+            </Transform>
+            <Components>
+                <SelectorComponent>
+                    <height height = "150"/>
+                    <width width = "180"/>
+                </SelectorComponent>
+                <ShooterComponent>
+                    <range range = "1000"/>
+                    <damage damage = "1"/>
+                    <fireRate fireRate = "1"/>
+                    <projectileSpeed projectileSpeed = "1000"/>
+                    <round>Bullet</round>
+                </ShooterComponent>
+                <TeamComponent>
+                    <teamNum teamNum = "1"/>
+                </TeamComponent>
+                <Collider>
+                    <height height = "87"/>
+                    <width width = "72"/>
+                    <message>green</message>
+                </Collider>
+                <ClickMovement>
+                    <flyer/>
+                </ClickMovement>
+                <HealthStatComponent>
+                    <maxHealth maxHealth = "12" />
+                    <width width = "20"/>
+                    <height height = "10"/>
+                    <heartValue heartValue = "2"/>
+                    <numHearts numHearts = "6"/>
+                    <healType Hero = "Hero"/>
+                </HealthStatComponent>
+                <Image>
+                    <imagepath>data/Textures/WarZone/GreenChopper.png</imagepath>
+                    <height height = "150"/>
+                    <width width = "180"/>
+                </Image>
+            </Components>
+        </Entity>
+        <!-- Hero Gunner -->
+     	<Entity>
+            <Transform>
+                <position x = "100" y = "500"/>
+            </Transform>
+            <Components>
+                <SelectorComponent>
+                    <height height = "87"/>
+                    <width width = "72"/>
+                </SelectorComponent>
+                <ShooterComponent>
+                    <range range = "450"/>
+                    <damage damage = "1"/>
+                    <fireRate fireRate = ".25"/>
+                    <projectileSpeed projectileSpeed = "400"/>
+                    <round>Bullet</round>
+                </ShooterComponent>
+                <TeamComponent>
+                    <teamNum teamNum = "1"/>
+                </TeamComponent>
+                <Collider>
+                    <height height = "87"/>
+                    <width width = "72"/>
+                    <message>green</message>
+                </Collider>
+                <ClickMovement>
+                </ClickMovement>
+                <HealthStatComponent>
+                    <maxHealth maxHealth = "8" />
+                    <width width = "20"/>
+                    <height height = "10"/>
+                    <heartValue heartValue = "1"/>
+                    <numHearts numHearts = "8"/>
+                    <healType Hero = "Hero"/>
+                </HealthStatComponent>
+                <Image>
+                    <imagepath>data/Textures/WarZone/GreenGunner.png</imagepath>
+                    <height height = "87"/>
+                    <width width = "72"/>
+                </Image>
+            </Components>
+        </Entity>
+        <!-- Hero Medic -->
+        <Entity>
+            <Transform>
+                <position x = "100" y = "600"/>
+            </Transform>
+            <Components>
+                <SelectorComponent>
+                    <height height = "84"/>
+                    <width width = "60"/>
+                </SelectorComponent>
+                <ShooterComponent>
+                    <range range = "300"/>
+                    <damage damage = "1"/>
+                    <fireRate fireRate = ".5"/>
+                    <projectileSpeed projectileSpeed = "400"/>
+                    <round>Bullet</round>
+                </ShooterComponent>
+                <MeleeComponent>
+                    <healer>
+                        <healType Hero = "Hero"/>
+                    </healer>
+                    <range range = "30"/>
+                    <damage damage = "1"/>
+                    <fireRate fireRate = "1"/>
+                </MeleeComponent>
+                <TeamComponent>
+                    <teamNum teamNum = "1"/>
+                </TeamComponent>
+                <Collider>
+                    <height height = "87"/>
+                    <width width = "72"/>
+                    <message>green</message>
+                </Collider>
+                <ClickMovement>
+                </ClickMovement>
+                <HealthStatComponent>
+                    <maxHealth maxHealth = "4" />
+                    <width width = "20"/>
+                    <height height = "10"/>
+                    <heartValue heartValue = "1"/>
+                    <numHearts numHearts = "4"/>
+                    <healType Hero = "Hero"/>
+                </HealthStatComponent>
+                <Image>
+                    <imagepath>data/Textures/WarZone/GreenMedic.png</imagepath>
+                    <height height = "84"/>
+                    <width width = "60"/>
+                </Image>
+            </Components>
+        </Entity>
+                <!-- Hero Tank -->
+     	<Entity>
+            <Transform>
+                <position x = "100" y = "400"/>
+            </Transform>
+            <Components>
+                <SelectorComponent>
+                    <height height = "117"/>
+                    <width width = "144"/>
+                </SelectorComponent>
+                <ShooterComponent>
+                    <range range = "600"/>
+                    <damage damage = "1"/>
+                    <fireRate fireRate = "2"/>
+                    <projectileSpeed projectileSpeed = "600"/>
+                    <round>HeroTankShell</round>
+                </ShooterComponent>
+                <TeamComponent>
+                    <teamNum teamNum = "1"/>
+                </TeamComponent>
+                <Collider>
+                    <height height = "117"/>
+                    <width width = "144"/>
+                    <message>green</message>
+                </Collider>
+                <ClickMovement>
+                </ClickMovement>
+                <HealthStatComponent>
+                    <maxHealth maxHealth = "32" />
+                    <width width = "20"/>
+                    <height height = "10"/>
+                    <heartValue heartValue = "4"/>
+                    <numHearts numHearts = "8"/>
+                    <healType Tank = "Tank"/>
+                </HealthStatComponent>
+                <Image>
+                    <imagepath>data/Textures/WarZone/GreenTank.png</imagepath>
+                    <height height = "117"/>
+                    <width width = "144"/>
+                </Image>
+            </Components>
+        </Entity>
+        <!-- Hero Mechanic -->
+        <Entity>
+            <Transform>
+                <position x = "50" y = "600"/>
+            </Transform>
+            <Components>
+                <SelectorComponent>
+                    <height height = "84"/>
+                    <width width = "69"/>
+                </SelectorComponent>
+                <ShooterComponent>
+                    <range range = "300"/>
+                    <damage damage = "1"/>
+                    <fireRate fireRate = ".5"/>
+                    <projectileSpeed projectileSpeed = "400"/>
+                    <round>Bullet</round>
+                </ShooterComponent>
+                <MeleeComponent>
+                    <healer>
+                        <healType Tank = "Tank"/>
+                    </healer>
+                    <range range = "30"/>
+                    <damage damage = "1"/>
+                    <fireRate fireRate = ".25"/>
+                </MeleeComponent>
+                <TeamComponent>
+                    <teamNum teamNum = "1"/>
+                </TeamComponent>
+                <Collider>
+                    <height height = "87"/>
+                    <width width = "69"/>
+                    <message>green</message>
+                </Collider>
+                <ClickMovement>
+                </ClickMovement>
+                <HealthStatComponent>
+                    <maxHealth maxHealth = "4" />
+                    <width width = "20"/>
+                    <height height = "10"/>
+                    <heartValue heartValue = "1"/>
+                    <numHearts numHearts = "4"/>
+                    <healType Hero = "Hero"/>
+                </HealthStatComponent>
+                <Image>
+                    <imagepath>data/Textures/WarZone/GreenMechanic.png</imagepath>
+                    <height height = "84"/>
+                    <width width = "69"/>
+                </Image>
+            </Components>
+        </Entity>
+        <!-- ENEMIES START -->
+        <!-- Enemy Runner -->
+        <Entity>
+            <Transform>
+                <position x = "1000" y = "400"/>
+            </Transform>
+            <Components>
+                <HealthStatComponent>
+                    <maxHealth maxHealth = "4" />
+                    <width width = "20"/>
+                    <height height = "10"/>
+                    <heartValue heartValue = "1"/>
+                    <numHearts numHearts = "4"/>
+                </HealthStatComponent>
+                <MeleeComponent>
+                    <range range = "25"/>
+                    <damage damage = "1"/>
+                    <fireRate fireRate = ".25"/>
+                </MeleeComponent>
+                <SightMovement>
+                    <sightRange sightRange = "750"/>
+                </SightMovement>
+                <Collider>
+                    <height height = "87"/>
+                    <width width = "72"/>
+                    <message>red</message>
+                </Collider>
+                <TeamComponent>
+                    <teamNum teamNum = "2"/>
+                </TeamComponent>
+                <Image>
+                    <imagepath>data/Textures/WarZone/RedRunner.png</imagepath>
+                    <height height = "87"/>
+                    <width width = "72"/>
+                </Image>
+            </Components>
+        </Entity>
+        <Entity>
+            <Transform>
+                <position x = "1000" y = "500"/>
+            </Transform>
+            <Components>
+                <HealthStatComponent>
+                    <maxHealth maxHealth = "4" />
+                    <width width = "20"/>
+                    <height height = "10"/>
+                    <heartValue heartValue = "1"/>
+                    <numHearts numHearts = "4"/>
+                </HealthStatComponent>
+                <SightMovement>
+                    <sightRange sightRange = "750"/>
+                </SightMovement>
+                <MeleeComponent>
+                    <range range = "25"/>
+                    <damage damage = "1"/>
+                    <fireRate fireRate = ".25"/>
+                </MeleeComponent>
+                <Collider>
+                    <height height = "87"/>
+                    <width width = "72"/>
+                    <message>red</message>
+                </Collider>
+                <TeamComponent>
+                    <teamNum teamNum = "2"/>
+                </TeamComponent>
+                <Image>
+                    <imagepath>data/Textures/WarZone/RedRunner.png</imagepath>
+                    <height height = "87"/>
+                    <width width = "72"/>
+                </Image>
+            </Components>
+        </Entity>
+        <Entity>
+            <Transform>
+                <position x = "1000" y = "600"/>
+            </Transform>
+            <Components>
+                <HealthStatComponent>
+                    <maxHealth maxHealth = "4" />
+                    <width width = "20"/>
+                    <height height = "10"/>
+                    <heartValue heartValue = "1"/>
+                    <numHearts numHearts = "4"/>
+                </HealthStatComponent>
+                <SightMovement>
+                    <sightRange sightRange = "750"/>
+                </SightMovement>
+                <MeleeComponent>
+                    <range range = "25"/>
+                    <damage damage = "1"/>
+                    <fireRate fireRate = ".25"/>
+                </MeleeComponent>
+                <Collider>
+                    <height height = "87"/>
+                    <width width = "72"/>
+                    <message>red</message>
+                </Collider>
+                <TeamComponent>
+                    <teamNum teamNum = "2"/>
+                </TeamComponent>
+                <Image>
+                    <imagepath>data/Textures/WarZone/RedRunner.png</imagepath>
+                    <height height = "87"/>
+                    <width width = "72"/>
+                </Image>
+            </Components>
+        </Entity>
+        <!--Enemy Gunner   -->    
+        <Entity>
+            <Transform>
+                <position x = "800" y = "600"/>
+            </Transform>
+            <Components>
+                <HealthStatComponent>
+                    <maxHealth maxHealth = "4" />
+                    <width width = "20"/>
+                    <height height = "10"/>
+                    <heartValue heartValue = "1"/>
+                    <numHearts numHearts = "4"/>
+                </HealthStatComponent>
+                <SightMovement>
+                    <sightRange sightRange = "750"/>
+                </SightMovement>
+                <ShooterComponent>
+                    <range range = "400"/>
+                    <damage damage = "1"/>
+                    <fireRate fireRate = ".25"/>
+                    <projectileSpeed projectileSpeed = "400"/>
+                    <round>Bullet</round>
+                </ShooterComponent>
+                <Collider>
+                    <height height = "87"/>
+                    <width width = "72"/>
+                    <message>red</message>
+                </Collider>
+                <TeamComponent>
+                    <teamNum teamNum = "2"/>
+                </TeamComponent>
+                <Image>
+                    <imagepath>data/Textures/WarZone/RedGunner.png</imagepath>
+                    <height height = "87"/>
+                    <width width = "72"/>
+                </Image>
+            </Components>
+        </Entity>
+        <Entity>
+            <Transform>
+                <position x = "1800" y = "400"/>
+            </Transform>
+            <Components>
+                <HealthStatComponent>
+                    <maxHealth maxHealth = "4" />
+                    <width width = "20"/>
+                    <height height = "10"/>
+                    <heartValue heartValue = "1"/>
+                    <numHearts numHearts = "4"/>
+                </HealthStatComponent>
+                <SightMovement>
+                    <sightRange sightRange = "750"/>
+                </SightMovement>
+                <ShooterComponent>
+                    <range range = "400"/>
+                    <damage damage = "1"/>
+                    <fireRate fireRate = ".25"/>
+                    <projectileSpeed projectileSpeed = "400"/>
+                    <round>Bullet</round>
+                </ShooterComponent>
+                <Collider>
+                    <height height = "87"/>
+                    <width width = "72"/>
+                    <message>red</message>
+                </Collider>
+                <TeamComponent>
+                    <teamNum teamNum = "2"/>
+                </TeamComponent>
+                <Image>
+                    <imagepath>data/Textures/WarZone/RedGunner.png</imagepath>
+                    <height height = "87"/>
+                    <width width = "72"/>
+                </Image>
+            </Components>
+        </Entity> 
+        <!-- Enemy Tank-->
+     	<Entity>
+            <Transform>
+                <position x = "1500" y = "400"/>
+            </Transform>
+            <Components>
+                <SelectorComponent>
+                    <height height = "117"/>
+                    <width width = "144"/>
+                </SelectorComponent>
+                <SightMovement>
+                    <sightRange sightRange = "750"/>
+                </SightMovement>
+                <ShooterComponent>
+                    <range range = "600"/>
+                    <damage damage = "1"/>
+                    <fireRate fireRate = ".25"/>
+                    <projectileSpeed projectileSpeed = "600"/>
+                    <round>TankShell</round>
+                </ShooterComponent>
+                <TeamComponent>
+                    <teamNum teamNum = "2"/>
+                </TeamComponent>
+                <Collider>
+                    <height height = "117"/>
+                    <width width = "144"/>
+                    <message>red</message>
+                </Collider>
+                <ClickMovement>
+                </ClickMovement>
+                <HealthStatComponent>
+                    <maxHealth maxHealth = "24" />
+                    <width width = "20"/>
+                    <height height = "10"/>
+                    <heartValue heartValue = "4"/>
+                    <numHearts numHearts = "6"/>
+                    <healType Tank = "Tank"/>
+                </HealthStatComponent>
+                <Image>
+                    <imagepath>data/Textures/WarZone/RedTank.png</imagepath>
+                    <height height = "117"/>
+                    <width width = "144"/>
+                </Image>
+            </Components>
+        </Entity>
+    </Entities>
+</World>
